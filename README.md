@@ -2,7 +2,7 @@
 Extra map Tiles for Unity Asset "Strange Engine"
 https://www.assetstore.unity3d.com/#!/content/101997
 
-All Art used in package is free and aviable separetly:
+All Art used in package is free and available separately:
 
 1. https://isohei.deviantart.com/art/Roguelike-Dungeon-571585394
 2. https://zingot.itch.io/alienesque-tileset
